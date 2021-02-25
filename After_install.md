@@ -1,4 +1,4 @@
-#These are things I install after OS install
+# These are things I install after OS install
 - make sure youve installed updates as well as zsh
   - install zsh via brew, yum or apt...
 - oh.my.zsh = `sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
