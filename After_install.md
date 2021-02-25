@@ -1,6 +1,17 @@
 # These are things I install after OS install
-- make sure youve installed updates as well as zsh
-  - install zsh via brew, yum or apt...
+- make sure youve installed updates as well as the following
+  - zsh via brew, yum or apt...
+  - git
+  - curl
+  - wget
+  - code
+  - brave
+  - firefox
+  - alfred
+  - nordvpn
+  - 1password
+  - jump desktop
+  - jump desktop connect
 - oh.my.zsh = `sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
 - zsh-syntax-highlighting = `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git`
 `echo "source ${(q-)PWD}/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> ${ZDOTDIR:-$HOME}/.zshrc`
