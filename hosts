@@ -1,0 +1,7 @@
+[all]
+uwsvm1
+uwsvm2
+[all:rhel]
+uwsvm2
+[all:ubuntu]
+uwsvm1
