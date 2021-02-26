@@ -19,4 +19,4 @@
 - i also add my standard zsh them to the ~/.zshrc file
   - `ZSH_THEME='half-life'`
 - Configure .vimrc (check out oz's vimrc)
-- 
+- set dns to 9.9.9.9 or pihole server
