@@ -1,9 +1,7 @@
 [all]
-uwsvm1
-uwsvm2
-[all:rhel]
-uwsvm2
-[all:ubuntu]
-uwsvm1
-
-###adding to test
+10.211.55.6
+10.211.55.7
+[rhel]
+10.211.55.7
+[ubuntu]
+10.211.55.6
