@@ -1,0 +1,13 @@
+---
+- name: Pinging machines
+  ping:
+- name: Creating new User
+  user:
+    name: ansible
+    gid: 2022
+    state: present
+- name: Creating new Users Group
+  group:
+    name: ansible
+    gid: 2021
+    state: present
